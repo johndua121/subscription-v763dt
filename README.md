@@ -1,8 +1,10 @@
 09.22.2026
 
-<!-- notify 1/2 · 2GTqcptC -->
-## Notification 1/2
-Round: Round 1
-To: redtesws@yahoo.com, sam.wills5455@aol.com
-At: 2026-09-22 12:52:57
-Id: 2GTqcptC
+<!-- after round1 -->
+
+<!-- notify 2/2 -->
+## Notification 2/2
+Round: Round 2
+To: sam.wills5456@yahoo.com, deoldanny7865@hotmail.com
+At: 2026-09-22 12:53:07
+Id: vOv7iDoc
